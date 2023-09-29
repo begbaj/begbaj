@@ -13,7 +13,7 @@ WHERE
 I'm currently a student at "Universita' politecnica delle Marche" (Italy) in 
 computer and automation engineering. Not a good student, but I have actively
 partecipated in a good quantity of projects and competitions, and once I also 
-had a to tutor new script-kiddies in web exploitation techniques.
+had a to tutor newbie script-kiddies in web exploitation techniques.
 
 --------------------------------------------------------------------------------
 WHAT
