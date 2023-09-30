@@ -1,4 +1,4 @@
-BEGAN BAJRAMI		begbaj/dyrem		arch linux			foss		  neovim
+BEGAN BAJRAMI     begbaj/dyrem      arch linux              foss         neovim
 
 --------------------------------------------------------------------------------
 WHO
