@@ -32,7 +32,7 @@ Not for money, not for fame, but for getting that feeling you only get when you
 finally make a project come to life.
 
 --------------------------------------------------------------------------------
-I HATE CVS
+I HATE CVs
 
 they really ruin whats good about a person(ality). If you want to get an idea 
 of what my capabilities are, just watch what's pubblic on this profile, or 
