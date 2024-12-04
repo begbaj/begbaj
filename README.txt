@@ -1,40 +1,39 @@
-BEGAN BAJRAMI		begbaj/dyrem		arch linux			foss		  neovim
-
---------------------------------------------------------------------------------
+BEGAN BAJRAMI a.k.a begbaj or dyrem
+--------------------------------------------------
 WHO
 
-I'm Began, and I have a passion to desgin software that I will never
-(probably) ever really see come to life, because, you know, I wish days could
-last 48h to do everything I have to.
+Hi, I'm Began. I’m passionate about designing
+software—dreams that I may never fully see come to
+life. Why? Because I’m the kind of person who
+wishes days were 48 hours long just to fit
+everything in.
 
---------------------------------------------------------------------------------
+--------------------------------------------------
 WHERE
 
-I'm currently a student at "Universita' politecnica delle Marche" (Italy) in 
-computer and automation engineering. Not a good student, but I have actively
-partecipated in a good quantity of projects and competitions, and once I even 
-had to attend classes on web exploitation.
-
-
---------------------------------------------------------------------------------
+Currently, I’m a student at Università Politecnica
+delle Marche in Italy, pursuing a degree in
+Computer and Automation Engineering. I wouldn’t
+call myself an exceptional student, but I’ve
+actively participated in numerous projects and
+hacking competitions.
+--------------------------------------------------
 WHAT
 
-Music, computers, programming, reverse engineering, exploiting, pwning,
-tinkering, riceing, producing beats, and I don't remeber what else. 
-But I'm not expert at any of the above, but I'm always looking forward on 
-being better on what I'm already good at. 
-
-
---------------------------------------------------------------------------------
+Music, computers, coding, tinkering, activism,
+hacking and really everything that makes me feel
+like something has been done.
+--------------------------------------------------
 WHY
 
-Because I have a passion for everything in the WHAT section. That's why.
-Not for money, not for fame, but for getting that feeling you only get when you
-finally make a project come to life.
+I don’t do it for money or fame. I do it for that
+unmatched feeling you get when a project finally
+comes to life.
 
---------------------------------------------------------------------------------
+--------------------------------------------------
 I HATE CVS
 
-they really ruin whats good about a person(ality). If you want to get an idea 
-of what my capabilities are, just watch what's pubblic on this profile, or 
-reach me out on Discord (dyremoff).
+CVs strip away the essence of a person. If you
+want to know what I’m capable of, just check out
+what’s public on this profile—or feel free to
+reach out on Discord: dyremoff.
