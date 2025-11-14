@@ -1,2 +1,3 @@
-BEGAN BAJRAMI a.k.a begbaj or dyrem on the web
-Im a IT Engineering master student with a bachelor's degree on Software Engineering.
+My main role is to innovete If I can, but sometimes (almost alwyas) people hate my because I want to do too much (and they're probably right)
+
+I also found out I don't dislike bash
